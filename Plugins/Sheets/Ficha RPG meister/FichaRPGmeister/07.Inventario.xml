@@ -163,11 +163,11 @@
 			<label field="cargaErguer" text="valor" width="70" height="20" left="80" top="91" horzTextAlign="center"  formatFloat=",0.## Kg"/>
 
 			<rectangle width="70" height="20" left="80" top="113" color="black" strokeColor="white" strokeSize="1"/>
-			<label left="10" top="113" width="70" height="20" text="EMPURRAR"/>
+			<label left="10" top="113" width="70" height="20" text="LEVANTAR"/>
 			<label field="cargaLevantar" text="valor" width="70" height="20" left="80" top="113" horzTextAlign="center"  formatFloat=",0.## Kg"/>
 
 			<rectangle width="70" height="20" left="80" top="135" color="black" strokeColor="white" strokeSize="1"/>
-			<label left="10" top="135" width="65" height="20" text="LEVANTAR"/>
+			<label left="10" top="135" width="65" height="20" text="EMPURRAR"/>
 			<label field="cargaEmpurrar" text="valor" width="70" height="20" left="80" top="135" horzTextAlign="center"  formatFloat=",0.## Kg"/>
 
 			<rectangle width="70" height="20" left="80" top="160" color="#404040"/>
